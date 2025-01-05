@@ -1,5 +1,6 @@
-# Activité Pratique Angular : Application de Gestion des Produits en Angular
+# Projet Angular : Application de Gestion des Produits
 
+## Réalisé par : **Firdawsse Ahchouche**
 
 ### Introduction
 Cette application Angular permet de gérer des produits dans une interface simple. Elle affiche une liste de produits, permet d'ajouter de nouveaux produits et de les supprimer.
